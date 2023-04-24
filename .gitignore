@@ -1,0 +1,6 @@
+/venv/
+log.db
+settings_private.yml
+.idea
+.ipynb_checkpoints
+.DS_store

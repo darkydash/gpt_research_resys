@@ -1,0 +1,5 @@
+telegram_token: 'TELEGRAM BOT TOKEN (FROM BOTFATHER)'
+chat_dir: ''
+script_name: 'gpt4all-lora-quantized-OSX-m1'
+database_path: 'PATH TO log.db'
+openai_token: 'OPENAI API TOKEN'
